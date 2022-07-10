@@ -1,4 +1,17 @@
-# First file for control version
+# Git instruction
+* git init в папке, для отслеживания её гитом
+* git clean очищает терминал
+* git add добавление файла для дальнейшего коммита
+* git commit -m "massage" сохранение текуущей версии файла(оф)
+* git status текущее состояние файлов в папке отслеживаемой гитом
+* git log (--graph) просмотр комитов (с графом показывает ветки)
+* git checkout (commit_name) переход на коммит
+* git checkout (branch_name) переход на ветку
+* git branch (branch_name) создание ветки
+* git diff показывает разницу между последним коммитом и текущим состоянием
+* 
+
+# Markdown instruction
 
 
 ## Allocation text -- выделение текста
