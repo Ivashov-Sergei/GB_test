@@ -9,7 +9,7 @@
 * git checkout (branch_name) переход на ветку
 * git branch (branch_name) создание ветки
 * git diff показывает разницу между последним коммитом и текущим состоянием
-* git merge слияние веток
+* git merge (branch_name) слияние веток
 * git branch -d (branch_name) удаление ветки
 
 # Markdown instruction
