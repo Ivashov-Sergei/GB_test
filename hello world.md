@@ -11,6 +11,11 @@
 * git diff показывает разницу между последним коммитом и текущим состоянием
 * git merge (branch_name) слияние веток
 * git branch -d (branch_name) удаление ветки
+*
+* git clone (URL) копирование ветки проекта
+* git remote set-url origin (git URL https://github.com/Ivashov-Sergei/GB_test.git) создание подключения с возможностью афторизации по акк пасс
+* git push отправка в удалённый репозиторий
+* git pull скачивание с удалённого репозитория
 
 # Markdown instruction
 
